@@ -9,3 +9,5 @@ fysom
 signalslot
 semver
 certifi
+
+pytest
